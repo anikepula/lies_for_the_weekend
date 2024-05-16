@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://anikepula.github.io/'
 languageCode = 'en-us'
 title = 'Lies For the Weekend'
 theme = 'digitalgarden'
